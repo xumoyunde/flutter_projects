@@ -22,7 +22,7 @@ void main() {
           child: Icon(
             Icons.app_blocking,
             color: Colors.black,
-            size: 40.0,
+            size: 42.0,
           ),
         ),
         body: Column(
